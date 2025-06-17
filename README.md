@@ -1,2 +1,2 @@
 # Agrinho_3D_antonio
-repository
+Projeto feito para o segundo trimestre de 2025 - CC Programaçâo II - 3D
